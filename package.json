@@ -1,0 +1,10 @@
+{
+  "name": "js-light-board",
+  "version": "0.0.1",
+  "description": "this is for demo purpose",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
